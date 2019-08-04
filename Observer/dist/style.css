@@ -1,0 +1,108 @@
+ul {
+	list-style: none;
+}
+
+.food-container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.food-items {
+	width: 60px;
+	height: 60px;
+	background-size: 60px;
+	display: inline-block;
+	margin: 0 15px;
+	border: 2px solid #ccc;
+	border-radius: 50px;
+	padding: 3px;
+	background-repeat: none;
+	cursor: pointer;
+}
+
+.food-items:hover {
+	border: 2px solid #888;
+}
+
+#orange {
+	background-image: url(images/orange.jpg);
+}
+
+#lemon {
+	background-image: url(images/lemon.jpg);
+}
+
+#pomgranate {
+	background-image: url(images/pomgranate.jpg);
+}
+
+#apple {
+	background-image: url(images/apple.jpg);
+}
+
+#pears {
+	background-image: url(images/pears.jpg);
+}
+
+#carrot {
+	background-image: url(images/carrot.jpg);
+}
+
+#chilli {
+	background-image: url(images/chilli.jpg);
+}
+
+#brinjal {
+	background-image: url(images/brinjal.jpg);
+}
+
+#broccoli {
+	background-image: url(images/broccoli.jpg);
+}
+
+#tomato {
+	background-image: url(images/tomato.jpg);
+}
+
+.dinosaur {
+	background-image: url(images/dino.jpg);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 200px;
+	background-size: 200px;
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+
+.content {
+	width: 80%;
+	margin: 40px auto;
+	text-align: center;
+}
+
+.speech-bubble {
+	position: relative;
+	background: #ebd9ff;
+	border-radius: .4em;
+	padding: 30px;
+	margin-left: 30px;
+	font-size: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 12px solid transparent;
+	border-right-color: #ebd9ff;
+	border-left: 0;
+	margin-top: -12px;
+	margin-left: -12px;
+}
+
