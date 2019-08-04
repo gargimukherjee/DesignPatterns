@@ -1,3 +1,4 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Facade Pattern
+Facade pattern hides the complexities of the system and provides an interface to the client 
+using which the client can access the system. 
+Structural pattern as this pattern adds an interface to existing system to hide its complexities.

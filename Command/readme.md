@@ -1,3 +1,6 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Command Pattern
+Command pattern is a data driven design pattern and falls under behavioural pattern category. 
+A request is wrapped under an object as command and passed to invoker object. 
+Invoker object looks for the appropriate object which can handle this command and passes the command 
+to the corresponding object which executes the command. 
+Always contains a execute method, the parameter contains a notification object which decides the action.

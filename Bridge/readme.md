@@ -1,3 +1,4 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Bridge Pattern
+Bridge is used when we need to decouple an abstraction from its implementation so that the two can vary independently. 
+Structural pattern as this pattern decouples implementation class and abstract class by 
+providing a bridge structure between them.

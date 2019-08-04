@@ -1,3 +1,4 @@
-This is the examples of the Iterator pattern. It always has 3 methods: hasNext, getNext and rest. 
-
-This will fetch a list of fruits and display it on the DOM.
+Iterator Pattern
+This pattern is used to get a way to access the elements of a collection object in sequential manner 
+without any need to know its underlying representation or implementation.
+Iterator pattern falls under behavioural pattern category.

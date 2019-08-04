@@ -1,3 +1,3 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Builder Pattern
+Builder pattern builds a complex object using simple objects and using a step by step approach. 
+Creational pattern as this pattern provides one of the best ways to create an object.

@@ -1,3 +1,3 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Filter Pattern
+Filter pattern or Criteria pattern is a design pattern that enables developers to filter a set of objects using different criteria and chaining them in a decoupled way through logical operations. 
+Structural pattern as this pattern combines multiple criteria to obtain single criteria.

@@ -1,3 +1,4 @@
-This is the example of the CSS Mania website with the singleton class implemented. 
-
-This will implement a popup manager as  a singleton class , where the popup will be available on everypage. 
+Chain of Responsibility Pattern
+The chain of responsibility pattern creates a chain of receiver objects for a request. 
+This pattern decouples sender and receiver of a request based on type of request. 
+Behavioural patterns.
